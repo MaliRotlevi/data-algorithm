@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\NSO\data-algorithm\day1\CountNumberOfTreesInForest\CountNumberOfTreesInForest\bin\Debug\CountNumberOfTreesInForest.exe.config
+C:\Users\User\Desktop\NSO\data-algorithm\day1\CountNumberOfTreesInForest\CountNumberOfTreesInForest\bin\Debug\CountNumberOfTreesInForest.exe
+C:\Users\User\Desktop\NSO\data-algorithm\day1\CountNumberOfTreesInForest\CountNumberOfTreesInForest\bin\Debug\CountNumberOfTreesInForest.pdb
+C:\Users\User\Desktop\NSO\data-algorithm\day1\CountNumberOfTreesInForest\CountNumberOfTreesInForest\obj\Debug\CountNumberOfTreesInForest.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\NSO\data-algorithm\day1\CountNumberOfTreesInForest\CountNumberOfTreesInForest\obj\Debug\CountNumberOfTreesInForest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NSO\data-algorithm\day1\CountNumberOfTreesInForest\CountNumberOfTreesInForest\obj\Debug\CountNumberOfTreesInForest.exe
+C:\Users\User\Desktop\NSO\data-algorithm\day1\CountNumberOfTreesInForest\CountNumberOfTreesInForest\obj\Debug\CountNumberOfTreesInForest.pdb
