@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\NSO\data algoriithm\day1\topThreeRepetedInArray\topThreeRepetedInArray\bin\Debug\topThreeRepetedInArray.exe.config
+C:\Users\User\Desktop\NSO\data algoriithm\day1\topThreeRepetedInArray\topThreeRepetedInArray\bin\Debug\topThreeRepetedInArray.exe
+C:\Users\User\Desktop\NSO\data algoriithm\day1\topThreeRepetedInArray\topThreeRepetedInArray\bin\Debug\topThreeRepetedInArray.pdb
+C:\Users\User\Desktop\NSO\data algoriithm\day1\topThreeRepetedInArray\topThreeRepetedInArray\obj\Debug\topThreeRepetedInArray.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\NSO\data algoriithm\day1\topThreeRepetedInArray\topThreeRepetedInArray\obj\Debug\topThreeRepetedInArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NSO\data algoriithm\day1\topThreeRepetedInArray\topThreeRepetedInArray\obj\Debug\topThreeRepetedInArray.exe
+C:\Users\User\Desktop\NSO\data algoriithm\day1\topThreeRepetedInArray\topThreeRepetedInArray\obj\Debug\topThreeRepetedInArray.pdb
