@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\NSO\data algoriithm\day2\Binary Search\Binary Search\bin\Debug\Binary Search.exe.config
+C:\Users\User\Desktop\NSO\data algoriithm\day2\Binary Search\Binary Search\bin\Debug\Binary Search.exe
+C:\Users\User\Desktop\NSO\data algoriithm\day2\Binary Search\Binary Search\bin\Debug\Binary Search.pdb
+C:\Users\User\Desktop\NSO\data algoriithm\day2\Binary Search\Binary Search\obj\Debug\Binary Search.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\NSO\data algoriithm\day2\Binary Search\Binary Search\obj\Debug\Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NSO\data algoriithm\day2\Binary Search\Binary Search\obj\Debug\Binary Search.exe
+C:\Users\User\Desktop\NSO\data algoriithm\day2\Binary Search\Binary Search\obj\Debug\Binary Search.pdb
