@@ -8,12 +8,29 @@ namespace Graph
 {
     class BFS
     {
-        public void PrintBFS(AdjacenyList graph)
+        public void Bfs(int s,AdjacenyList list)
         {
-            Queue<int> q = new Queue<int>();
-            for (int i = 0; i < graph.GetLength(); i++)
-            {
 
+            bool[] visited = new bool[list.GetLength()];
+            for (int i = 0; i <list.GetLength(); i++)
+                visited[i] = false;         
+            LinkedList<int> queue = new LinkedList<int>();
+            visited[s] = true;
+            queue.AddLast(s);
+            while (queue.Any())
+            {           
+                s = queue.First();
+                Console.Write(s + " ");
+                queue.RemoveFirst();
+                List<int> llist = list.GetAdjacentList()[s];
+                foreach (var val in llist)
+                {
+                    if (!visited[val])
+                    {
+                        visited[val] = true;
+                        queue.AddLast(val);
+                    }
+                }
             }
         }
     }

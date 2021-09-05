@@ -30,5 +30,9 @@ namespace Graph
         {
             return this.length;
         }
+        public List<int>[] GetAdjacentList()
+        {
+            return this.list;
+        }
     }
 }
