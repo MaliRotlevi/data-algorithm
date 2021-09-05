@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\NSO\data algoriithm\day1\SteppingNumbers\SteppingNumbers\bin\Debug\SteppingNumbers.exe.config
-C:\Users\User\Desktop\NSO\data algoriithm\day1\SteppingNumbers\SteppingNumbers\bin\Debug\SteppingNumbers.exe
-C:\Users\User\Desktop\NSO\data algoriithm\day1\SteppingNumbers\SteppingNumbers\bin\Debug\SteppingNumbers.pdb
-C:\Users\User\Desktop\NSO\data algoriithm\day1\SteppingNumbers\SteppingNumbers\obj\Debug\SteppingNumbers.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\NSO\data algoriithm\day1\SteppingNumbers\SteppingNumbers\obj\Debug\SteppingNumbers.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\NSO\data algoriithm\day1\SteppingNumbers\SteppingNumbers\obj\Debug\SteppingNumbers.exe
-C:\Users\User\Desktop\NSO\data algoriithm\day1\SteppingNumbers\SteppingNumbers\obj\Debug\SteppingNumbers.pdb

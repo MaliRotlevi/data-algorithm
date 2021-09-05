@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\NSO\data algoriithm\day2\Sorts\Sorts\bin\Debug\Sorts.exe.config
-C:\Users\User\Desktop\NSO\data algoriithm\day2\Sorts\Sorts\bin\Debug\Sorts.exe
-C:\Users\User\Desktop\NSO\data algoriithm\day2\Sorts\Sorts\bin\Debug\Sorts.pdb
-C:\Users\User\Desktop\NSO\data algoriithm\day2\Sorts\Sorts\obj\Debug\Sorts.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\NSO\data algoriithm\day2\Sorts\Sorts\obj\Debug\Sorts.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\NSO\data algoriithm\day2\Sorts\Sorts\obj\Debug\Sorts.exe
-C:\Users\User\Desktop\NSO\data algoriithm\day2\Sorts\Sorts\obj\Debug\Sorts.pdb

@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\NSO\data-algorithm\day3\Topological-Sort\Topological-Sort\bin\Debug\Topological-Sort.exe.config
-C:\Users\User\Desktop\NSO\data-algorithm\day3\Topological-Sort\Topological-Sort\bin\Debug\Topological-Sort.exe
-C:\Users\User\Desktop\NSO\data-algorithm\day3\Topological-Sort\Topological-Sort\bin\Debug\Topological-Sort.pdb
-C:\Users\User\Desktop\NSO\data-algorithm\day3\Topological-Sort\Topological-Sort\obj\Debug\Topological-Sort.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\NSO\data-algorithm\day3\Topological-Sort\Topological-Sort\obj\Debug\Topological-Sort.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\NSO\data-algorithm\day3\Topological-Sort\Topological-Sort\obj\Debug\Topological-Sort.exe
-C:\Users\User\Desktop\NSO\data-algorithm\day3\Topological-Sort\Topological-Sort\obj\Debug\Topological-Sort.pdb
