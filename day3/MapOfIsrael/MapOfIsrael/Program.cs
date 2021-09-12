@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Graph
+namespace MapOfIsrael
 {
     class Program
     {
         static void Main(string[] args)
         {
-            AdjacenyList mapOfIsrael = new AdjacenyList();
+            Graph mapOfIsrael = new Graph();
             mapOfIsrael.AddCity("Nehariya");
             mapOfIsrael.AddCity("Tiberias");
             mapOfIsrael.AddCity("Kiryat Shemona");
@@ -33,12 +33,12 @@ namespace Graph
             mapOfIsrael.AddNeighbor("Dimona", "Beer Sheva", 30);
             mapOfIsrael.AddNeighbor("Dimona", "Jerusalem", 75);
             mapOfIsrael.AddNeighbor("Beer Sheva", "Jerusalem", 65);
-            mapOfIsrael.AddNeighbor("Beer Sheva", "Bet  Shemesh", 55);
+            mapOfIsrael.AddNeighbor("Beer Sheva", "Bet Shemesh", 55);
             mapOfIsrael.AddNeighbor("Beer Sheva", "Ashkelon", 48);
             mapOfIsrael.AddNeighbor("Bet Shemesh", "Rishon", 30);
-            mapOfIsrael.AddNeighbor("Neariya", "Kiryat Shemona", 55);
-            mapOfIsrael.AddNeighbor("Neariya", "Haifa", 25);
-            mapOfIsrael.AddNeighbor("Neariya", "Jerusalem", 135);
+            mapOfIsrael.AddNeighbor("Nehariya", "Kiryat Shemona", 55);
+            mapOfIsrael.AddNeighbor("Nehariya", "Haifa", 25);
+            mapOfIsrael.AddNeighbor("Nehariya", "Jerusalem", 135);
             mapOfIsrael.AddNeighbor("Tiberias", "Kiryat Shemona", 45);
             mapOfIsrael.AddNeighbor("Tiberias", "Haifa", 50);
             mapOfIsrael.AddNeighbor("Tiberias", "Natharath", 26);

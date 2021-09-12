@@ -4,22 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Graph
+namespace MapOfIsrael
 {
-    class AdjacenyList
+    class Graph
     {
-
-    
         private Dictionary<string, Vertex<string>> cities;
-        public  AdjacenyList()
+        public Graph()
         {
             this.cities = new Dictionary<string, Vertex<string>>();
         }
         public void AddCity(string city)
         {
-            cities.Add(city, new Vertex<string>(city,null,0));
+            cities.Add(city, new Vertex<string>(city, 0));
         }
-        public void AddNeighbor(string city,string neighbor,int dist)
+        public void AddNeighbor(string city, string neighbor, int dist)
         {
             cities[city].AddNeighbor(neighbor, dist);
             cities[neighbor].AddNeighbor(city, dist);

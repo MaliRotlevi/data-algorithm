@@ -9,7 +9,7 @@ namespace Graph
 
     class DFS
     {
-        public void DFSUtil(int v, bool[] visited, AdjacenyList list)
+       /* public void DFSUtil(int v, bool[] visited, AdjacenyList list)
         {
             visited[v] = true;
             Console.Write(v + " ");
@@ -26,6 +26,6 @@ namespace Graph
         {
             bool[] visited = new bool[list.GetLength()];
             DFSUtil(v, visited, list);
-        }
+        }*/
     }
 }

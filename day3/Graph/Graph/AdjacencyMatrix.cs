@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Graph
 {
-    class AdjacencyMatrix
+    class AdjacencyMatrix<T>
     {
-        private int[,] mat;
+        private string [,] mat;
         private int length;
         //a c'tor that init reset the matrix
         public AdjacencyMatrix(int length)
@@ -18,17 +18,17 @@ namespace Graph
             {
                 for (int j = 0; j < mat.Length; j++)
                 {
-                    mat[i, j] = 0;
+                    mat[i, j] = "";
                 }
             }
         }
-        public void AddEdge(int i,int j)
+        public void AddEdge(int i,int j,string txt)
         {
-            this.mat[i, j] = 1;
+            this.mat[i, j] = txt;
         }
         public void RemoveEdge(int i, int j)
         {
-            this.mat[i, j] = 0;
+            this.mat[i, j] = " ";
         }
         public int GetLength()
         {
